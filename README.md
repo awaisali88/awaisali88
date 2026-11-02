@@ -5,7 +5,7 @@ enterprise .NET and data back ends, Gen AI and agentic AI, maps, C2 and UAVs.
 
 **Portfolio and case studies: [awaisali.dev](https://awaisali.dev)**
 
-Available for solution architecture, technical leadership and hands-on builds; remote or on-site.
+Available for solution architecture, technical leadership and hands-on builds; remote, hybrid or on-site.
 
 ## What I work on
 - **AI & agentic systems:** LangGraph, LangChain and CrewAI agents, retrieval-augmented generation, evals
